@@ -1,0 +1,12 @@
+.btn {
+  height: 60px;
+  width: 60px;
+  padding: 3%;
+  margin: 8px;
+  font-size: 30px;
+  font-weight: 700;
+  color: aquamarine;
+  background-color: rgba(63, 65, 65, 0.542);
+  border-radius: 20%;
+  border: 0px;
+}
